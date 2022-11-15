@@ -30,5 +30,5 @@ eureka:
     fetch-registry: true
     register-with-eureka: true
 
-welcome:
-  message: "Reading message from the config server"
+ping:
+  message: "User service ping successful !!"
