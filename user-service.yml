@@ -31,4 +31,4 @@ eureka:
     register-with-eureka: true
 
 ping:
-  message: "User service ping successful !!"
+  message: "User service ping successful !!!"
